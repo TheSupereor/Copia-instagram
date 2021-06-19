@@ -43,3 +43,5 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - [x] Login de Usuário
 - [x] Postagem de imagem
 - [x] Comentários na postagem
+
+#Feito através de tutoriais da Danki Code#
